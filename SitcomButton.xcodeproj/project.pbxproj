@@ -12,7 +12,7 @@
 		3C8A91172BE7AC5A00EA2164 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C8A91162BE7AC5A00EA2164 /* Assets.xcassets */; };
 		3C8A911A2BE7AC5A00EA2164 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C8A91192BE7AC5A00EA2164 /* Preview Assets.xcassets */; };
 		3C8A91232BE7BE8E00EA2164 /* laugh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3C8A91222BE7BE8E00EA2164 /* laugh.mp3 */; };
-		3C8A91272BE7C78600EA2164 /* SoundsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C8A91262BE7C78600EA2164 /* SoundsBootcamp.swift */; };
+		3C8A91272BE7C78600EA2164 /* Sounds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C8A91262BE7C78600EA2164 /* Sounds.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,7 +22,7 @@
 		3C8A91162BE7AC5A00EA2164 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C8A91192BE7AC5A00EA2164 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3C8A91222BE7BE8E00EA2164 /* laugh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = laugh.mp3; sourceTree = "<group>"; };
-		3C8A91262BE7C78600EA2164 /* SoundsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsBootcamp.swift; sourceTree = "<group>"; };
+		3C8A91262BE7C78600EA2164 /* Sounds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sounds.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 			children = (
 				3C8A91122BE7AC5700EA2164 /* SitcomButtonApp.swift */,
 				3C8A91142BE7AC5700EA2164 /* ContentView.swift */,
-				3C8A91262BE7C78600EA2164 /* SoundsBootcamp.swift */,
+				3C8A91262BE7C78600EA2164 /* Sounds.swift */,
 				3C8A91162BE7AC5A00EA2164 /* Assets.xcassets */,
 				3C8A91282BE7C99E00EA2164 /* Sounds */,
 				3C8A91182BE7AC5A00EA2164 /* Preview Content */,
@@ -152,7 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3C8A91272BE7C78600EA2164 /* SoundsBootcamp.swift in Sources */,
+				3C8A91272BE7C78600EA2164 /* Sounds.swift in Sources */,
 				3C8A91152BE7AC5700EA2164 /* ContentView.swift in Sources */,
 				3C8A91132BE7AC5700EA2164 /* SitcomButtonApp.swift in Sources */,
 			);
