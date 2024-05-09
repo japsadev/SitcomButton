@@ -15,6 +15,8 @@ struct ContentView: View {
             Sounds()
                 .padding()
             Sounds()
+                .padding()
+            Sounds()
         }
     }
 }
